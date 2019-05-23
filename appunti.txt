@@ -1,0 +1,13 @@
+print("") // print statement
+<string> .. <string> // String concatenation
+io.read() // read user input
+not  // ! operator
+and // & operator
+~= // not equal to
+if <condition> then <content> end // conditional statement
+while <condition> do <content> end // while loop
+-- // comments
+<name> = {"item1", "item2"} // table data structure
+table.insert(<name>, "item3") // add element to table
+table.remove(<name>, <table index>) // removes one element from table 
+local <variable name> // explicit declaration of a local variable
